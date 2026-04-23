@@ -39,6 +39,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\97694M\workspace\WishMeGift_Backend" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -54,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1776930825560</updated>
-      <workItem from="1776930827221" duration="1133000" />
+      <workItem from="1776930827221" duration="2578000" />
     </task>
     <servers />
   </component>
